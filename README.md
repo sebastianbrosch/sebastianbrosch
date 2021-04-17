@@ -1,0 +1,3 @@
+- 👋 I'm Sebastian Brosch
+- 👀 I'm interested in learning new skills and creating software.
+- 🌱 I'm currently learning JavaScript with Vue.js.
