@@ -1,8 +1,7 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/6590066/115127880-4b4daa00-9fda-11eb-90df-868fc12e76c4.gif" height="30"> - I am Sebastian - Welcome to my profile!</h1>
 
-- :rocket: I'm currently working as .NET developer.
+- :rocket: I currently work as a .NET developer and study computer science at the [DHBW Horb](https://github.com/dhbw-horb).
 - :bulb: I'm interested in learning new stuff and creating software.
-- :books: I'm currently learning JavaScript and Vue.js.
 
 ## My GitHub Stats
 
