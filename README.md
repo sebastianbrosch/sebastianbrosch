@@ -1,16 +1,33 @@
-<h1 align="center">Hi - I am Sebastian - Welcome to my profile!</h1>
+# Hi, I'm Sebastian 👋
 
-- :rocket: I currently work as a .NET developer and study computer science at the [DHBW Horb](https://github.com/dhbw-horb).
-- :bulb: I'm interested in learning new stuff and creating software.
+🏢 **Software Developer** @ [HAESSLER Information GmbH](https://haessler.com/) | 👨‍🎓 **Student** @ [DHBW Horb](https://www.dhbw-stuttgart.de/horb/)
 
-## My GitHub Stats
+## About Me
 
-<div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebastianbrosch&theme=highcontrast" alt="Sebastian's GitHub Streak" width="46%" align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=sebastianbrosch&show_icons=true&theme=highcontrast" alt="Sebastian's GitHub Stats" width="46%">
-  
-</div>
+I'm a passionate software developer focused on building robust applications with .NET and modern web technologies. I love solving real-world problems and sharing knowledge through my blog and open-source contributions.
 
-## My StackOverflow Stats
+## 🛠️ Tech Stack
 
-<a href="https://stackoverflow.com/users/3840840/sebastian-brosch"><img src="https://stackoverflow.com/users/flair/3840840.png" width="208" height="58" alt="profile for Sebastian Brosch at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Sebastian Brosch at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+![.NET](https://img.shields.io/badge/-.NET-512bd4?style=flat-square)
+![C#](https://img.shields.io/badge/-C%23-9179e4?style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/-jQuery-0868ac?style=flat-square&logo=jquery&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-c69?style=flat-square&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)
+![Subversion](https://img.shields.io/badge/-Subversion-809cc9?style=flat-square&logo=subversion&logoColor=white)
+
+## 🚀 Current Projects
+
+- **[DMARC Report Analyzer](https://github.com/sebastianbrosch/dmarc-report-analyzer)** - A tool to import and analyze DMARC reports locally.
+- **[SEO Insights](https://github.com/SEO-Insights/seo-insights)** - A chrome extension for a quick and basic SEO analysis.
+
+## 🔗 Connect With Me
+
+[![Bluesky](https://img.shields.io/badge/-sebastianbrosch.de-00a8e8?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/sebastianbrosch.de)
+[![Twitter](https://img.shields.io/badge/-@sebastianbrosch-1da1f2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/sebastianbrosch)
+[![Blog](https://img.shields.io/badge/-sebastianbrosch.blog-ff5722?style=flat-square&logo=hugo&logoColor=white)](https://sebastianbrosch.blog)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sebastianbrosch)
+[![Stack Overflow](https://img.shields.io/badge/-sebastianbrosch-fe7a16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/3840840/)
