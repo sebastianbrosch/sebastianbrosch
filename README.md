@@ -2,7 +2,7 @@
 
 🏢 **Software Developer** @ [HAESSLER Information GmbH](https://haessler.com/) | 👨‍🎓 **Student** @ [DHBW Horb](https://www.dhbw-stuttgart.de/horb/)
 
-## About Me
+## 👨‍💻 About Me
 
 I'm a passionate software developer focused on building robust applications with .NET and modern web technologies. I love solving real-world problems and sharing knowledge through my blog and open-source contributions.
 
@@ -26,8 +26,8 @@ I'm a passionate software developer focused on building robust applications with
 
 ## 🔗 Connect With Me
 
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sebastianbrosch)
 [![Bluesky](https://img.shields.io/badge/-sebastianbrosch.de-00a8e8?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/sebastianbrosch.de)
 [![Twitter](https://img.shields.io/badge/-@sebastianbrosch-1da1f2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/sebastianbrosch)
 [![Blog](https://img.shields.io/badge/-sebastianbrosch.blog-ff5722?style=flat-square&logo=hugo&logoColor=white)](https://sebastianbrosch.blog)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sebastianbrosch)
 [![Stack Overflow](https://img.shields.io/badge/-sebastianbrosch-fe7a16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/3840840/)
