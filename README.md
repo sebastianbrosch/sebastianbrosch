@@ -1,12 +1,12 @@
 # Hi, I'm Sebastian 👋
 
-🏢 **Software Developer** @ [HAESSLER Information GmbH](https://haessler.com/) | 👨‍🎓 **Student** @ [DHBW Horb](https://www.dhbw-stuttgart.de/horb/)
+**Software Developer** @ [HAESSLER Information GmbH](https://haessler.com/) and **Student** @ [DHBW Horb](https://www.dhbw-stuttgart.de/horb/)
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a passionate software developer focused on building robust applications with .NET and modern web technologies. I love solving real-world problems and sharing knowledge through my blog and open-source contributions.
+I'm a passionate software developer focused on building robust applications with .NET and modern web technologies. I love solving real-world problems and sharing knowledge through [my blog](https://sebastianbrosch.blog) and open-source contributions.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![.NET](https://img.shields.io/badge/-.NET-512bd4?style=flat-square)
 ![C#](https://img.shields.io/badge/-C%23-9179e4?style=flat-square)
@@ -19,12 +19,12 @@ I'm a passionate software developer focused on building robust applications with
 ![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)
 ![Subversion](https://img.shields.io/badge/-Subversion-809cc9?style=flat-square&logo=subversion&logoColor=white)
 
-## 🚀 Current Projects
+## Current Projects
 
 - **[DMARC Report Analyzer](https://github.com/sebastianbrosch/dmarc-report-analyzer)** - A tool to import and analyze DMARC reports locally.
 - **[SEO Insights](https://github.com/SEO-Insights/seo-insights)** - A chrome extension for a quick and basic SEO analysis.
 
-## 🔗 Connect With Me
+## Connect With Me
 
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sebastianbrosch)
 [![Bluesky](https://img.shields.io/badge/-sebastianbrosch.de-00a8e8?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/sebastianbrosch.de)
